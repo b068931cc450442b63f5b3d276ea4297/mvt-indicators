@@ -3,6 +3,12 @@
 146-fastweb.info
 155-wind.info
 159-windtre.info
+2.228.150.86
+2.229.68.182
+45.148.30.122
+85.159.27.61
+93.39.197.234
+93.57.84.78
 amex-co.info
 apps.fb-techsupport.com
 business.wind-h3g.info
